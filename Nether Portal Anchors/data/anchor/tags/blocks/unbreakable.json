@@ -1,0 +1,13 @@
+{
+	"values": [
+		"minecraft:bedrock",
+		"minecraft:respawn_anchor",
+		"minecraft:nether_portal",
+		"minecraft:end_portal_frame",
+		"minecraft:ender_chest",
+		"minecraft:chest",
+		"minecraft:enchanting_table",
+		"minecraft:beacon",
+		"#minecraft:shulker_boxes"
+	]
+}

@@ -1,0 +1,9 @@
+scoreboard objectives add swordBreaks minecraft.broken:minecraft.netherite_sword
+scoreboard objectives add axeBreaks minecraft.broken:minecraft.netherite_axe
+scoreboard objectives add hoeBreaks minecraft.broken:minecraft.netherite_hoe
+scoreboard objectives add shovelBreaks minecraft.broken:minecraft.netherite_shovel
+scoreboard objectives add pickaxeBreaks minecraft.broken:minecraft.netherite_pickaxe
+scoreboard objectives add helmetBreaks minecraft.broken:minecraft.netherite_helmet
+scoreboard objectives add bootsBreaks minecraft.broken:minecraft.netherite_boots
+scoreboard objectives add chestplateBreaks minecraft.broken:minecraft.netherite_chestplate
+scoreboard objectives add leggingsBreaks minecraft.broken:minecraft.netherite_leggings

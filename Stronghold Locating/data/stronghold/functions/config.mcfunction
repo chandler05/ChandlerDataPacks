@@ -1,0 +1,1 @@
+tellraw @s [{"text":"Click on ","color":"green"},{"text":"[Coords]","clickEvent":{"action":"suggest_command","value":"/scoreboard players set @s coords "},"color":"gold"},{"text":" to configure whether or not the datapack will tell you the excact coordinates of a stronghold (Type 0 for no or 1 for yes)","color":"green"}]

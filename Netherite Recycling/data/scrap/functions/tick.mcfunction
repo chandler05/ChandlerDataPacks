@@ -1,0 +1,9 @@
+execute at @a run execute if score @p swordBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p axeBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p howBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p shovelBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p pickaxeBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p helmetBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p bootsBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p chestplateBreaks matches 1 run function scrap:salvage
+execute at @a run execute if score @p leggingsBreaks matches 1 run function scrap:salvage

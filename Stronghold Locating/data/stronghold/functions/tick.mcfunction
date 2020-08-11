@@ -1,0 +1,1 @@
+execute at @a run execute if score @p eyeSearch matches 1 run function stronghold:search

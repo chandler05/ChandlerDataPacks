@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:fishing_bobber,nbt={OnGround:0b}] as @e[sort=nearest,distance=..1.5,limit=1,type=!minecraft:fishing_bobber,type=!player,type=!item] run function pocketmobs:catchcheck
+schedule function pocketmobs:loop 9

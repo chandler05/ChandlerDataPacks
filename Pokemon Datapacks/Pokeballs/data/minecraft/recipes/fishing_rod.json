@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:fishing_rod",
+        "count": 1
+    },
+    "pattern": [
+        "RRR",
+        " N ",
+        "WWW"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:red_dye"
+        },
+        "N": {
+            "item": "minecraft:iron_nugget"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        }
+    }
+}

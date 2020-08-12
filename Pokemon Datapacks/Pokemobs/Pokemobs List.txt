@@ -1,0 +1,45 @@
+Works on: 
+-Bats [Loot: Coal]
+-Bees [Loot: Honeycomb]
+-Blazes [Loot: Blaze Rod]
+-Chickens [Loot: Feather]
+-Cows [Loot: Leather]
+-Creepers [Loot: Gunpowder]
+-Dolphins [Loot: Salmon]
+-Donkeys
+-Enderman (Difficult) [Loot: Ender Pearl]
+-Endermites [Loot: Ender Pearl]
+-Foxes [Loot: Sweet Berries]
+-Ghasts (Difficult) [Loot: Ghast Tear]
+-Guardians [Loot: Prismarine Crystals]
+-Hoglins [Loot: Cooked Porkchop (3)]
+-Horses
+-Llamas [Loot: Lead]
+-Magma Cubes (Big Magma Cubes are Difficult) [Loot: Magma Cream]
+-Mooshrooms [Loot: Mycelium]
+-Mules
+-Pandas [Loot: Bamboo]
+-Parrots [Loot: Cookie]
+-Phantoms [Loot: Phantom Membrane]
+-Pigs [Loot: Carrot]
+-Piglins [Loot: Gold Nugget]
+-Polar Bears [Loot: Tropical Fish]
+-Rabbits [Loot: Rabbit Foot]
+-Ravagers (Difficult) [Loot: Emerald (10)]
+-Sheep [Loot: Wheat]
+-Silverfish [Loot: Infested Cobblestone]
+-Skeleton Horses [Loot: Bone]
+-Slimes (Big Slimes are Difficult) [Loot: Slime Ball]
+-Striders [Loot: String]
+-Squids [Loot: Ink Sac]
+-Trader Llamas [Loot: Lead]
+-Turtles [Loot: Scute]
+-Vexes [Loot: Totem of Undying]
+-Villagers
+-Wandering Traders
+-Zombie Horses
+-Zombie Villagers
+
+
+
+WILL NOT WORK ON DOGS AND CATS

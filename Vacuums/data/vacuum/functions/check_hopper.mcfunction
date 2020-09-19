@@ -1,0 +1,3 @@
+schedule function vacuum:check_hopper 2t
+execute as @e[type=minecraft:item] at @s positioned ~ ~-0.25 ~ if block ~ ~ ~ minecraft:hopper align xyz unless entity @e[type=minecraft:item_frame,tag=vhopper,dx=0,dy=0,dz=0] if entity @s[nbt={Item:{id:"minecraft:ender_pearl",Count:1b,tag:{display:{Name:'{"text":"vacuum"}'}}}}] run function vacuum:create_vacuum
+execute as @e[type=minecraft:item] at @s positioned ~ ~-0.25 ~ if block ~ ~ ~ minecraft:hopper align xyz unless entity @e[type=minecraft:item_frame,tag=vhopper,dx=0,dy=0,dz=0] if entity @s[nbt={Item:{id:"minecraft:ender_pearl",Count:1b,tag:{display:{Name:'{"text":"Vacuum"}'}}}}] run function vacuum:create_vacuum

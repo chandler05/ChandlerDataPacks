@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:item_frame,tag=vhopper] at @s unless block ~ ~ ~ minecraft:hopper run function vacuum:break_vacuum
+execute as @e[type=minecraft:item_frame,tag=vhopper] at @s run function vacuum:pull
